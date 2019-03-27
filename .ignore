@@ -1,2 +1,4 @@
 *.json
 /logs
+/.vscode
+/.ipynb_checkpoints
